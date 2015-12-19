@@ -1,0 +1,6 @@
+D:\Adrian\Program\c#\silnia\silnia\bin\Debug\silnia.exe.config
+D:\Adrian\Program\c#\silnia\silnia\bin\Debug\silnia.exe
+D:\Adrian\Program\c#\silnia\silnia\bin\Debug\silnia.pdb
+D:\Adrian\Program\c#\silnia\silnia\obj\Debug\silnia.csprojResolveAssemblyReference.cache
+D:\Adrian\Program\c#\silnia\silnia\obj\Debug\silnia.exe
+D:\Adrian\Program\c#\silnia\silnia\obj\Debug\silnia.pdb
